@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
     ArrayList<String> id, message;
     ArrayList<byte[]> image;
     CustomAdapter ca;
+    //test
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
